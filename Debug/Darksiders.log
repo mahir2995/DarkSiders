@@ -1,0 +1,10 @@
+﻿Build started 3/20/2024 8:43:44 PM.
+     1>Project "D:\DarkSiders\Darksiders.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (iGraphics Project.vcxproj, Project1.vcxproj, Project2.vcxproj, TheMessiah.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         Darksiders.vcxproj -> D:\DarkSiders\Debug\Darksiders.exe
+     1>Done Building Project "D:\DarkSiders\Darksiders.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.41
